@@ -1,0 +1,100 @@
+/* tags */
+
+.tag_cloud { margin-top: 10px; }
+.tag_cloud, .tags_edit_form_cloud {
+  padding: 10px 19px;
+  -moz-border-radius: 10px; -webkit-border-radius: 10px;
+  text-align: center;
+  line-height: 120%;
+  background: #e8e8e8;
+}
+
+.tag_tags { margin-top: 10px; }
+.tag_tags, .tags_edit_form_cloud {
+  padding: 10px 19px;
+  -moz-border-radius: 10px; -webkit-border-radius: 10px;
+  text-align: center;
+  line-height: 120%;
+  background: rgb(255,253,212);
+}
+
+.tag_tagc { margin-top: 10px; }
+.tag_tagc, .tags_edit_form_cloud {
+  padding: 10px 19px;
+  -moz-border-radius: 10px; -webkit-border-radius: 10px;
+  text-align: center;
+  line-height: 120%;
+  background: #ffcc66;
+}
+
+.tag_tagsoft { margin-top: 10px; }
+.tag_tagsoft, .tags_edit_form_cloud {
+  padding: 10px 19px;
+  -moz-border-radius: 10px; -webkit-border-radius: 10px;
+  text-align: center;
+  line-height: 120%;
+  background: #ffcc99;
+}
+
+.tag_tagnsi { margin-top: 10px; }
+.tag_tagnsi, .tags_edit_form_cloud {
+  padding: 10px 19px;
+  -moz-border-radius: 10px; -webkit-border-radius: 10px;
+  text-align: center;
+  line-height: 120%;
+  background: #ffcc88;
+}
+
+.tag_cloud_category {
+	position: relative;
+	clear: right;
+	margin-top: 25px;
+}
+.tag_cloud_category div {
+	position: absolute; top: -20px; right: 0;
+	overflow: hidden;
+	padding: 0 5px 3px 0;
+	font-size: 70%;
+	font-style: italic;
+	color: #606060;
+}
+
+.tag_cloud_container {
+  margin: 10px 0 14px 0;
+}
+
+.tags_edit_form_cloud {
+  width: 95%;
+}
+
+.tags_edit_form_cloud #tags {
+  width: 100%;
+  margin-right: 28px;
+  font-size: 120%;
+  text-align: center;
+  background: #F5F5F5;
+  border: none;
+}
+
+.tags_edit_form_cloud .submit-button {
+  position: relative; z-index: 2;
+  float: right;
+  top: -21px; left: 28px;
+}
+
+.tag_cloud a { margin-right: 8px; }
+.tag_cloud a:link, .tag_cloud a:active { color: #606060; text-decoration: none; }
+.tag_cloud a:visited { color: #474747; text-decoration: none; }
+.tag_cloud a:hover { color: #dc0033; text-decoration: underline; }
+
+.tag_cloud .tag00 { font-size: 60%; }
+.tag_cloud .tag01 { font-size: 70%; }
+.tag_cloud .tag02 { font-size: 80%; }
+.tag_cloud .tag03 { font-size: 90%; }
+.tag_cloud .tag04 { font-size: 100%; }
+.tag_cloud .tag05 { font-size: 110%; }
+.tag_cloud .tag06 { font-size: 120%; }
+.tag_cloud .tag07 { font-size: 130%; }
+.tag_cloud .tag08 { font-size: 140%; }
+.tag_cloud .tag09 { font-size: 150%; }
+.tag_cloud .tag10 { font-size: 160%; }
