@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://dvpt1.github.io/sitemap.txt
+Sitemap: https://dvpt1.github.io/sitemap.xml
